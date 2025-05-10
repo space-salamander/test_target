@@ -5,3 +5,5 @@ foi uma experiencia interessante realizar esse trabalho, principalmente com o te
 meus conhecimentos apenas não teria chego a esse resultado, mas acredito que a IA está ai justamente para cumprir este papel e 
 para ser usada. Contudo muito obrigado pelo teste e oportunidade e irei revisar esses códigos posteriormente para adquirir mais
 conhecimento.
+
+Linguagem Utilizada: Python
